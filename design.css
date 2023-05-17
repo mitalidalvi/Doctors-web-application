@@ -595,21 +595,3 @@ p{
     font-weight: 600;
     color: #000;
 }
-
-
-/* Responsive Website  */
-
-@media only screen and (max-width: 946px){
-    .navbar{
-        padding: 1rem 4rem;
-    }
-
-}
-
-@media only screen and (max-width: 774px){
-
-}
-
-@media only screen and (max-width: 541px){
-
-}
